@@ -1,6 +1,6 @@
 (function() {
 
-  const url = 'http://localhost:3000/js/exercise-sample-data.json';
+  const url = 'khristos.github.io/MassMutualDemo/js/exercise-sample-data.json';
 
   fetch(url)
     .then(res => res.json())
